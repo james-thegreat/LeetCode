@@ -1,9 +1,11 @@
-package Two_Sum;
+package LeetCode.Two_Sum;
 
 /**
  * Two_Sums
  */
-public class Two_Sums {
+
+// Time complexity of O(n^2)
+public class Two_Sums_Brute {
     public static void main(String[] args) {
 
         int nums[] = { 2, 7, 11, 15 };
